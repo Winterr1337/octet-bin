@@ -7,7 +7,7 @@ Repository for downloading Octet's binary releases, issues and localization impr
 
 ## Binaries
 
-Octet releases are available in [Releases](https://github.com/Winterr1337/octet-bin/releases/tag/Release). Please be sure to check out the documentation, as it explains in detail the process of installing, configuring and using Octet.
+Octet releases are available in [Releases](https://github.com/Winterr1337/octet-bin/releases/tag/Release). Please be sure to check out the [documentation](https://octet-yg.org/docs), as it explains in detail the process of installing, configuring and using Octet.
 
 
 ## Issues
