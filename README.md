@@ -1,4 +1,5 @@
-# Octet Game Server
+# [Octet Game Server](https://octet-yg.org) 
+
 
 
 Repository for downloading Octet's binary releases, issues and localization improvements. 
